@@ -1,0 +1,25 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.grantech.tilematch",
+    "sha256_cert_fingerprints":
+    ["0C:31:DD:DE:16:62:57:6F:0C:20:65:9D:81:99:3C:3A:AE:89:31:B8:53:84:E0:4C:1E:8C:15:98:1F:73:72:BF"]
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "web",
+    "site": "https://manjav.github.io"
+  }
+},
+{
+  "relation": ["delegate_permission/common.get_login_creds"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.grantech.tilematch",
+    "sha256_cert_fingerprints":
+    ["0C:31:DD:DE:16:62:57:6F:0C:20:65:9D:81:99:3C:3A:AE:89:31:B8:53:84:E0:4C:1E:8C:15:98:1F:73:72:BF"]
+  }
+}]
