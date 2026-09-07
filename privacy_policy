@@ -1,0 +1,344 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy - SEYEDMANSOUR DJAWADI</title>
+
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            line-height: 1.6;
+            max-width: 900px;
+            margin: 40px auto;
+            padding: 0 20px;
+            color: #222;
+        }
+
+        h1 {
+            margin-bottom: 5px;
+        }
+
+        h2 {
+            margin-top: 32px;
+        }
+
+        ul {
+            padding-left: 25px;
+        }
+
+        .date {
+            color: #666;
+        }
+
+        .contact {
+            margin-top: 10px;
+        }
+
+        a {
+            color: #06c;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Privacy Policy</h1>
+
+    <p class="date"><strong>Effective Date:</strong> September 7, 2026</p>
+
+    <h2>1. Introduction</h2>
+
+    <p>
+        This Privacy Policy explains how <strong>SEYEDMANSOUR DJAWADI</strong>
+        ("I", "me", or "my") collects, uses, and shares information in connection
+        with my mobile games, applications, websites, and related services
+        (collectively, the "Services").
+    </p>
+
+    <p>
+        I respect your privacy and am committed to protecting your personal data.
+        This Privacy Policy describes the types of information that may be
+        collected through the Services and how that information may be used.
+    </p>
+
+    <p>
+        By using the Services, you acknowledge the practices described in this
+        Privacy Policy.
+    </p>
+
+    <h2>2. Why Information Is Collected</h2>
+
+    <p>Information may be collected and processed for the following purposes:</p>
+
+    <ul>
+        <li>To provide and maintain the Services.</li>
+        <li>To understand how users interact with the Services.</li>
+        <li>To analyze app performance and improve gameplay and user experience.</li>
+        <li>To detect, prevent, and resolve technical issues, crashes, fraud, or misuse.</li>
+        <li>
+            To display advertising, including personalized advertising where
+            permitted and where the appropriate consent or authorization has been obtained.
+        </li>
+    </ul>
+
+    <h2>3. Information That May Be Collected</h2>
+
+    <p>
+        Depending on how you use the Services and the technologies integrated
+        into the game, the following information may be collected:
+    </p>
+
+    <ul>
+        <li>IP address.</li>
+        <li>
+            Mobile Advertising ID, such as Apple's Identifier for Advertisers
+            (IDFA), where available and permitted.
+        </li>
+        <li>
+            Device and technical information, such as device model, operating
+            system, language, country, and app version.
+        </li>
+        <li>
+            Approximate location information derived from technical information,
+            where applicable.
+        </li>
+        <li>
+            Gameplay and interaction data, such as game events, session
+            information, and feature usage.
+        </li>
+        <li>
+            Diagnostic information, including crash reports and performance information.
+        </li>
+    </ul>
+
+    <p>
+        The Services do not intentionally collect sensitive personal information
+        such as passwords, payment card numbers, or government identification numbers.
+    </p>
+
+    <h2>4. How Information Is Used</h2>
+
+    <p>Information may be used to:</p>
+
+    <ul>
+        <li>Operate and provide the Services.</li>
+        <li>Maintain and improve the game.</li>
+        <li>Understand gameplay and user behavior.</li>
+        <li>Monitor and improve app stability and performance.</li>
+        <li>Diagnose crashes and technical problems.</li>
+        <li>Prevent fraud, abuse, and security issues.</li>
+        <li>Provide and measure advertising.</li>
+        <li>Comply with applicable laws and legal obligations.</li>
+    </ul>
+
+    <h2>5. Third-Party Service Providers</h2>
+
+    <p>
+        The Services may use third-party service providers for analytics,
+        advertising, crash reporting, hosting, and other technical functions.
+    </p>
+
+    <p>
+        These providers may process information collected through the Services
+        in accordance with their own privacy policies and applicable laws.
+    </p>
+
+    <p>
+        Depending on the game and the services integrated into it, third-party
+        providers may include:
+    </p>
+
+    <ul>
+        <li>Apple</li>
+        <li>Google</li>
+        <li>Unity</li>
+        <li>Meta</li>
+    </ul>
+
+    <p>
+        Third-party services may change over time as the Services are updated.
+    </p>
+
+    <h2>6. Advertising</h2>
+
+    <p>
+        The Services may display advertisements provided by third-party
+        advertising partners.
+    </p>
+
+    <p>
+        Advertising partners may use device information and advertising
+        identifiers to provide, measure, and improve advertisements.
+        Where required by applicable law or platform rules, the Services
+        will request the appropriate permission or consent before accessing
+        advertising identifiers or providing personalized advertising.
+    </p>
+
+    <p>
+        On Apple devices, users may manage advertising and tracking permissions
+        through the device's privacy settings.
+    </p>
+
+    <h2>7. Analytics</h2>
+
+    <p>
+        The Services may use analytics technologies to understand how users
+        interact with the game and to improve its quality and performance.
+    </p>
+
+    <p>Analytics information may include:</p>
+
+    <ul>
+        <li>Session duration and frequency.</li>
+        <li>Gameplay events.</li>
+        <li>Device and operating system information.</li>
+        <li>App version.</li>
+        <li>Crash and diagnostic information.</li>
+    </ul>
+
+    <p>
+        Analytics data is used for product improvement, technical analysis,
+        and performance measurement.
+    </p>
+
+    <h2>8. Cookies and Similar Technologies</h2>
+
+    <p>
+        Websites associated with the Services may use cookies and similar
+        technologies to provide functionality, understand website usage,
+        and measure performance.
+    </p>
+
+    <p>
+        Mobile applications may use software development kits (SDKs) and
+        similar technologies for analytics, advertising, crash reporting,
+        and other technical purposes.
+    </p>
+
+    <h2>9. Local Leaderboard</h2>
+
+    <p>
+        If a game includes a leaderboard, the leaderboard may operate entirely
+        locally on the user's device.
+    </p>
+
+    <p>
+        Where a leaderboard is identified as local, scores are stored on the
+        device and are not uploaded to a server or shared with other users
+        for global ranking purposes.
+    </p>
+
+    <p>
+        A local leaderboard does not require the collection or transmission
+        of personal information for ranking purposes.
+    </p>
+
+    <h2>10. Network Activity and Offline Use</h2>
+
+    <p>
+        A local leaderboard does not send or receive data for ranking purposes
+        and can function while the device is offline.
+    </p>
+
+    <p>
+        Other features of the Services, including advertising, analytics,
+        updates, or online functionality, may require an internet connection.
+    </p>
+
+    <h2>11. Children's Privacy</h2>
+
+    <p>
+        The Services are not intended for children under the age of 13 unless
+        explicitly stated otherwise for a particular Service.
+    </p>
+
+    <p>
+        I do not knowingly collect personal information from children under 13.
+        If you believe that a child has provided personal information through
+        the Services, please contact me so that appropriate action can be taken.
+    </p>
+
+    <h2>12. International Data Transfers</h2>
+
+    <p>
+        Third-party service providers used by the Services may process or store
+        information in countries other than the country in which you reside.
+    </p>
+
+    <p>
+        Where required, appropriate safeguards will be applied in accordance
+        with applicable data protection laws.
+    </p>
+
+    <h2>13. Data Retention</h2>
+
+    <p>
+        Information is retained only for as long as reasonably necessary for
+        the purposes described in this Privacy Policy, including providing
+        the Services, maintaining security, analyzing performance, resolving
+        disputes, and complying with legal obligations.
+    </p>
+
+    <p>
+        Retention periods may vary depending on the type of information and
+        the service through which it was collected.
+    </p>
+
+    <h2>14. Data Security</h2>
+
+    <p>
+        Reasonable technical and organizational measures are used to protect
+        information against unauthorized access, loss, misuse, or alteration.
+    </p>
+
+    <p>
+        However, no method of electronic storage or transmission over the
+        internet can be guaranteed to be completely secure.
+    </p>
+
+    <h2>15. Your Privacy Rights</h2>
+
+    <p>
+        Depending on your location and applicable law, you may have rights
+        regarding your personal data, including:
+    </p>
+
+    <ul>
+        <li>The right to access information held about you.</li>
+        <li>The right to request correction of inaccurate information.</li>
+        <li>The right to request deletion of your personal information.</li>
+        <li>The right to object to or restrict certain processing.</li>
+        <li>The right to withdraw consent where processing is based on consent.</li>
+    </ul>
+
+    <p>
+        To exercise applicable privacy rights, please contact me using the
+        contact information below.
+    </p>
+
+    <h2>16. Changes to This Privacy Policy</h2>
+
+    <p>
+        This Privacy Policy may be updated from time to time to reflect changes
+        to the Services, technologies used, legal requirements, or privacy practices.
+    </p>
+
+    <p>
+        Any updated version will be published with a new effective date.
+    </p>
+
+    <h2>17. Contact</h2>
+
+    <p>
+        If you have questions, requests, or concerns regarding this Privacy
+        Policy or the processing of your information, please contact:
+    </p>
+
+    <p class="contact">
+        <strong>SEYEDMANSOUR DJAWADI</strong><br>
+        Email:
+        <a href="mailto:info@fundora.games">info@fundora.games</a>
+    </p>
+
+</body>
+</html>
